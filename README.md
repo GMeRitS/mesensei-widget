@@ -1,6 +1,20 @@
 # Widget
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Examples
+
+### Usage with local source code
+```html
+<script type="text/javascript" src="./scripts/users-widget.js"></script>
+<div class="mesensei-users-widget" data-mesensei-key="YOUR_WIDGET_KEY"></div>
+```
+
+### Usage with hosted source code
+```html
+<script type="text/javascript" src="https://content.mesensei.com/widget/users-widget.js"></script>
+<div class="mesensei-users-widget" data-mesensei-key="YOUR_WIDGET_KEY"></div>
+```
+
 ## License
     MIT License
     
